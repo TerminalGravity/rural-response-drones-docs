@@ -2,7 +2,8 @@ import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
 export default defineConfig({
-  site: 'https://rural-response-drones-docs.vercel.app',
+  site: 'https://terminalgravity.github.io',
+  base: '/rural-response-drones-docs',
   integrations: [
     starlight({
       title: 'Rural Response Drones',

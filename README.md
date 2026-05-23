@@ -18,9 +18,9 @@ npm run build
 
 ## Deployment
 
-```bash
-HOME=/home/admin vercel --prod --yes
-```
+Primary: GitHub Pages from the `gh-pages` branch.
+
+Vercel note: initial Vercel deploy was blocked by an overdue team balance on the TerminalGravity Vercel account.
 
 ## Privacy posture
 
